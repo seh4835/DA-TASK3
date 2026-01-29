@@ -54,7 +54,4 @@ This structured approach can be extended to larger real-world sales datasets.
 
 ---
 
-## Author
-Sales Analysis Project  
-Python & Data Analytics
 
